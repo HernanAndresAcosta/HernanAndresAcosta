@@ -24,8 +24,8 @@ Actualmente enfocado en integrar soluciones de infraestructura escalables usando
 ## 📫 Conectemos
 
 - 🔗 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 📧 tuemail@dominio.com
-- 🧑‍💻 [Portafolio / Web Personal](https://tuweb.dev) *(opcional)*
+- 📧 13hernan05@gmail.com
+- 🧑‍💻 [Portafolio / Web Personal]*
 
 ---
 
