@@ -3,6 +3,13 @@
 
 Soy un entusiasta de la automatización, la infraestructura como código y el despliegue continuo. Me especializo en diseñar, implementar y mantener pipelines de CI/CD y entornos en la nube.
 
+## 🚀 Proyecto Destacado
+
+👉 [CI/CD Multi-Environment DevOps Pipeline](https://github.com/hernan130/desafio-7)
+
+Pipeline CI/CD con Jenkins, Ansible y Kubernetes.
+
+
 ## ⚙️ Herramientas y Tecnologías que manejo
 
 ## ⚙️ Herramientas y Tecnologías que manejo
