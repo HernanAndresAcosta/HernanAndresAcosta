@@ -18,8 +18,6 @@ Pipeline CI/CD completo que automatiza despliegues según la rama de Git, integr
 - Linux / SSH
 - VMs (Multipass)
 
-👉 **Repositorio:** https://github.com/hernan130/desafio-7
-
 ---
 
 ## ⚙️ Herramientas y Tecnologías
