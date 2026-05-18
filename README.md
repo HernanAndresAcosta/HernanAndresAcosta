@@ -38,6 +38,23 @@ Pipeline CI/CD completo que automatiza el despliegue de infraestructura en tres 
 
 ---
 
+## 📚 Bootcamp DevOps Engineer — 14 Desafíos Prácticos
+
+Todos los desafíos están documentados con código real, capturas de funcionamiento y README detallado:
+
+| Grupo | Desafíos | Tecnologías |
+|-------|----------|-------------|
+| **Fundamentos** | 1, 2, 3 | Jenkins, Bash, Webhooks + Ngrok |
+| **AWS Cloud** | 4, 5 | IAM, S3, VPC, RDS MariaDB |
+| **Automatización** | 6, 7 | Ansible modular, CI/CD multi-ambiente |
+| **CI/CD Moderno** | 8, 9 | Terraform + GitHub Actions + AWS |
+| **Contenedores** | 10, 11 | Docker multi-stage, Kubernetes/Minikube |
+| **GitOps** | 12, 13, 14 | Helm Chart propio, ArgoCD automatizado |
+
+📁 [Ver todos los desafíos →](./Desafios%20del%20Bootcamp)
+
+---
+
 ## ⚙️ Stack Tecnológico
 
 ### Dominando actualmente
@@ -45,14 +62,15 @@ Pipeline CI/CD completo que automatiza el despliegue de infraestructura en tres 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
-### Aprendiendo
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white)
+### Profundizando
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
