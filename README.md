@@ -1,13 +1,10 @@
-# 👋 Hernán Andrés Acosta — DevOps Engineer
+# 👋 Hernán Andrés Acosta — Junior DevOps Engineer
 
-> *"Después de 20 años en la función pública, decidí reinventarme. No fue fácil, pero fue una decisión consciente — y me capacité en serio para hacerlo."*
+Profesional en transición hacia infraestructura y DevOps, con formación universitaria (UNNE) y formación técnica intensiva en Linux, cloud, CI/CD, contenedores y automatización.
 
-Soy un profesional en transición hacia el mundo DevOps, con formación universitaria en Ciencias Criminalísticas (UNNE) y más de **198 horas certificadas** en infraestructura, cloud, CI/CD y metodologías ágiles.
-
-Mi background no es el típico — vengo de 20 años en la Policía Provincial de Corrientes, donde desarrollé disciplina institucional, trabajo bajo presión, redacción técnica y gestión de procesos críticos. Esas habilidades, combinadas con mi formación IT, son mi diferencial real.
+Encaro cada proyecto con un enfoque metódico: diagnosticar, documentar, automatizar y verificar — aplicado hoy al despliegue y gestión de infraestructura.
 
 📍 Corrientes, Argentina &nbsp;|&nbsp; 🌐 Disponible para trabajo remoto
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hernán_Acosta-blue?logo=linkedin)](https://www.linkedin.com/in/hernan-a-acosta)
 [![GitHub](https://img.shields.io/badge/GitHub-HernanAndresAcosta-black?logo=github)](https://github.com/HernanAndresAcosta)
 [![Email](https://img.shields.io/badge/Email-13hernan05@gmail.com-red?logo=gmail)](mailto:13hernan05@gmail.com)
@@ -66,13 +63,13 @@ Todos los desafíos están documentados con código real, capturas de funcionami
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ### Profundizando
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 ---
 
@@ -82,12 +79,13 @@ Todos los desafíos están documentados con código real, capturas de funcionami
 |-------------|-------------|-------|-----|
 | **DevOps Engineer Bootcamp** *(aval Manhattan University)* | EducaciónIT | 150 hs | 2025 |
 | **Cloud Fundamentals (AWS)** | Gobierno de Corrientes / AWS | — | 2024/2025 |
+| **Grafana desde Cero a Avanzado** | Apasoft Training | 10.5 hs | 2026 |
 | **Scrum Fundamentos** | EducaciónIT | 12 hs | 2025 |
 | **Introducción a Linux** | EducaciónIT | 18 hs | 2024 |
 | **Introducción a Redes** | EducaciónIT | 18 hs | 2024 |
 | **Armado y Reparación de PC** | UTN FRBA | — | 2024 |
 
-> 📋 Total certificado: **más de 198 horas cronológicas**
+> 📋 Total certificado: **más de 208 horas cronológicas**
 
 ---
 
